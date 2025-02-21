@@ -45,7 +45,7 @@ Make sure you have the following installed:
    ```sh
    npm start
    ```
-   The server will run on `http://localhost:5000`
+   The server will run on `http://localhost:3001`
 
 ---
 
