@@ -1,6 +1,7 @@
 # Project CRUD API
 
 This is a simple CRUD API for managing projects using **Node.js, Express, Prisma, and MySQL**. It allows you to create, read, update, and delete projects, as well as mark projects as favorites.
+#  Note: This API is intended only for frontend testing purposes. It does not include additional field validations, advanced middleware structures, authentication, or other production-ready security measures.
 
 ## Features
 - Create a new project
