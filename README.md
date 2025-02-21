@@ -106,14 +106,5 @@ Make sure you have the following installed:
 
 ---
 
-## Running the Project in Development Mode
-To run the project in development mode with auto-reload, install `nodemon`:
-```sh
-npm install -g nodemon
-nodemon index.js
-```
-
----
-
 ## License
 This project is licensed under the MIT License.
